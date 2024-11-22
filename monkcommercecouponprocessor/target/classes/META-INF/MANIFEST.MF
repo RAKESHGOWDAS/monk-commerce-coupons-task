@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: 29508
+Build-Jdk: 21.0.3
+Implementation-Title: monkcommercecouponprocessor
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.vz.cpi
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/monkcommerceco
+ uponprocessor/
+Created-By: Maven Integration for Eclipse
+
